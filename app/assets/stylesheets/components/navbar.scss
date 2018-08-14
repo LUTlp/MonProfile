@@ -1,3 +1,7 @@
+header {
+  background-color : f66d52;
+}
+
 .navbar {
   display: grid;
   height: 20%;
@@ -5,6 +9,7 @@
   grid-template-rows: 1fr;
   grid-gap: 1% 1%;
   grid-template-areas: "box1 box2 box3 box4 box5"
+
 }
 
 .box1 {
@@ -21,7 +26,13 @@
 }
 .box3 {
   grid-column-start: 3;
-  grid-column-end:3;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 1;
+}
+.box4 {
+  grid-column-start: 4;
+  grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 1;
 }

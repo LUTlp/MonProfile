@@ -15,3 +15,5 @@
  */
  @import url("components/navbar.scss");
  @import url("components/avatar.scss");
+ @import url("components/nav_button.scss");
+ @import url("components/logo-nav.scss");
