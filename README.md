@@ -4,7 +4,7 @@ Hey you, are you fine ? Ok, take popcors and let's introduce myself !
 
 ## Getting Started
 
-.
+.you can see the landing page here : https://profilelutlp.herokuapp.com/
 
 ### Prerequisites
 
