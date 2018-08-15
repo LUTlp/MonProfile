@@ -5,10 +5,10 @@
     transition: 0.3s;
 
     margin-left: 20px;
-    position: relative;
+    position: relative; /*permet ensuite de positionner le card container */
     height: 250px;
     width: 250px;
-    background: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50% ) ; background-size: cover;
+    background: linear-gradient(135deg, rgba(47,79,79,8) 0%, rgba(211,211,211,0) 50% ) ; background-size: cover; /* on se place par dessus l'arrière plan*/
     color: white !important;
     overflow: scroll;
 }

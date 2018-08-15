@@ -1,0 +1,17 @@
+.grid-container {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 1fr 1.5fr 1.5fr 1fr;
+  grid-template-rows: 1fr 1.3fr 0.7fr 1fr;
+  grid-gap: 1px;
+  grid-template-areas: "first-container" "card1" "card2" "kylo_life" "kylo_cube";
+  text-align: center;
+}
+
+.first-container { grid-area: 1 / 1 / 2 / 5; }
+.card1 { grid-area: 2 / 2 / 3 / 3; }
+.card2 { grid-area: 2 / 3 / 3 / 4;
+}
+.kylo_life { grid-area: 3 / 1 / 4 / 5;
+}
+.kylo_cube { grid-area: 4 / 1 / 5 / 5; }
