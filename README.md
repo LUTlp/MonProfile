@@ -1,24 +1,26 @@
-# README
+# Mon profile
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hey you, are you fine ? Ok, take popcors and let's introduce myself !
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+.
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+This app runs for postgrrrrrrrrrrrrr for sql. Nevertheless, there is no database, héhé !
 
-* Database creation
+You just need to
 
-* Database initialization
+```
+bundle install
+```
 
-* How to run the test suite
+### Tests
 
-* Services (job queues, cache servers, search engines, etc.)
+In France, we have a sentence for this present situation... "cherche pas, tu peux pas teste !"
 
-* Deployment instructions
 
-* ...
+## Contributing and Authors
+
+Me, myself and I, LUTlp, aka R.A.P.
